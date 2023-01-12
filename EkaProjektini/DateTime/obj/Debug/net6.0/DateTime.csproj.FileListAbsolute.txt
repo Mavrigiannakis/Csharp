@@ -1,0 +1,15 @@
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\EkaProjektini\DateTime\obj\Debug\net6.0\ref\DateTime.dll

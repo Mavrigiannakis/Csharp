@@ -1,0 +1,15 @@
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\bin\Debug\net6.0\YksiNumerot.exe
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\bin\Debug\net6.0\YksiNumerot.deps.json
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\bin\Debug\net6.0\YksiNumerot.runtimeconfig.json
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\bin\Debug\net6.0\YksiNumerot.dll
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\bin\Debug\net6.0\YksiNumerot.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.dll
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\refint\YksiNumerot.dll
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\YksiNumerot.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\EkaProjektini\YksiNumerot\obj\Debug\net6.0\ref\YksiNumerot.dll

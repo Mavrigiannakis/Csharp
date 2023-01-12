@@ -1,0 +1,15 @@
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.exe
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.deps.json
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.runtimeconfig.json
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.dll
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.dll
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\refint\EkaProjektini.dll
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.pdb
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\EkaProjektini\EkaProjektini\obj\Debug\net6.0\ref\EkaProjektini.dll
