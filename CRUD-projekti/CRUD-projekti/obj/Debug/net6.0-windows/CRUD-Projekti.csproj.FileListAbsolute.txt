@@ -1,0 +1,17 @@
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.csproj.GenerateResource.cache
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\CRUD-Projekti\CRUD-Projekti\obj\Debug\net6.0-windows\CRUD-Projekti.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD_projekti.Form1.resources
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.exe
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.deps.json
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.runtimeconfig.json
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.dll
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\bin\Debug\net6.0-windows\CRUD-projekti.pdb
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.dll
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\refint\CRUD-projekti.dll
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.pdb
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\CRUD-projekti.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\CRUD-projekti\CRUD-projekti\obj\Debug\net6.0-windows\ref\CRUD-projekti.dll

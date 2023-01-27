@@ -1,0 +1,15 @@
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\bin\Debug\net6.0\Tehtävät.exe
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\bin\Debug\net6.0\Tehtävät.deps.json
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\bin\Debug\net6.0\Tehtävät.runtimeconfig.json
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\bin\Debug\net6.0\Tehtävät.dll
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\bin\Debug\net6.0\Tehtävät.pdb
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.dll
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\refint\Tehtävät.dll
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.pdb
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\Tehtävät.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\Tehtävät\Tehtävät\obj\Debug\net6.0\ref\Tehtävät.dll
