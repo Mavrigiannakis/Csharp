@@ -1,0 +1,17 @@
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.csproj.AssemblyReference.cache
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.LukujenJarjestys.resources
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.csproj.GenerateResource.cache
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.AssemblyInfoInputs.cache
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.AssemblyInfo.cs
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.csproj.CoreCompileInputs.cache
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\bin\Debug\net6.0-windows\LukujenJarjestus.exe
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\bin\Debug\net6.0-windows\LukujenJarjestus.deps.json
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\bin\Debug\net6.0-windows\LukujenJarjestus.runtimeconfig.json
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\bin\Debug\net6.0-windows\LukujenJarjestus.dll
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\bin\Debug\net6.0-windows\LukujenJarjestus.pdb
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.dll
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\refint\LukujenJarjestus.dll
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.pdb
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\LukujenJarjestus.genruntimeconfig.cache
+C:\Users\mulle\repos\C-\LukujenJarjestus\LukujenJarjestus\obj\Debug\net6.0-windows\ref\LukujenJarjestus.dll
