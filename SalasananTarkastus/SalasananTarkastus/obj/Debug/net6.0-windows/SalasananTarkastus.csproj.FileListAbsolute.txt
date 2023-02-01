@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.SalasanaForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\refint\SalasananTarkastus.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\ref\SalasananTarkastus.dll
