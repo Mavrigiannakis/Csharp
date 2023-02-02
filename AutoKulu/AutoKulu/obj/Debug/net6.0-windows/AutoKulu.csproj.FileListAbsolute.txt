@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.KustanusForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\bin\Debug\net6.0-windows\AutoKulu.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\bin\Debug\net6.0-windows\AutoKulu.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\bin\Debug\net6.0-windows\AutoKulu.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\bin\Debug\net6.0-windows\AutoKulu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\bin\Debug\net6.0-windows\AutoKulu.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\refint\AutoKulu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\AutoKulu.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\AutoKulu\AutoKulu\obj\Debug\net6.0-windows\ref\AutoKulu.dll
