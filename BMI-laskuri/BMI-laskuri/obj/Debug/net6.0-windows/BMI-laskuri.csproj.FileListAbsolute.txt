@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\bin\Debug\net6.0-windows\BMI-laskuri.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\bin\Debug\net6.0-windows\BMI-laskuri.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\bin\Debug\net6.0-windows\BMI-laskuri.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\bin\Debug\net6.0-windows\BMI-laskuri.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\bin\Debug\net6.0-windows\BMI-laskuri.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI_laskuri.Form1.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\refint\BMI-laskuri.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\BMI-laskuri.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\BMI-laskuri\BMI-laskuri\obj\Debug\net6.0-windows\ref\BMI-laskuri.dll
