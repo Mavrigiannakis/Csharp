@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\bin\Debug\net6.0-windows\10Kysymysta.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\bin\Debug\net6.0-windows\10Kysymysta.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\bin\Debug\net6.0-windows\10Kysymysta.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\bin\Debug\net6.0-windows\10Kysymysta.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\bin\Debug\net6.0-windows\10Kysymysta.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\_10Kysymysta.VastauslomakeForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\refint\10Kysymysta.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\10Kysymysta.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\10Kysymysta\10Kysymysta\obj\Debug\net6.0-windows\ref\10Kysymysta.dll
