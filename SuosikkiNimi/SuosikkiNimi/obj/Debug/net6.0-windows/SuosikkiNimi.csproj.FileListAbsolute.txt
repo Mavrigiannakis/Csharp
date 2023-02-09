@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.SuosikkiForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\bin\Debug\net6.0-windows\SuosikkiNimi.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\bin\Debug\net6.0-windows\SuosikkiNimi.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\bin\Debug\net6.0-windows\SuosikkiNimi.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\bin\Debug\net6.0-windows\SuosikkiNimi.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\bin\Debug\net6.0-windows\SuosikkiNimi.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\refint\SuosikkiNimi.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\SuosikkiNimi.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\SuosikkiNimi\SuosikkiNimi\obj\Debug\net6.0-windows\ref\SuosikkiNimi.dll
