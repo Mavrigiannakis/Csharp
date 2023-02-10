@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.CountDownForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\refint\Ajastin.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Ajastin\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll
