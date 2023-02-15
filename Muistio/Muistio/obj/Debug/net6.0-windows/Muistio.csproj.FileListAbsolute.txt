@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.Form1.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\bin\Debug\net6.0-windows\Muistio.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\refint\Muistio.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\Muistio.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Muistio\Muistio\obj\Debug\net6.0-windows\ref\Muistio.dll
