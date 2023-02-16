@@ -31,7 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.oppilaitosCB = new System.Windows.Forms.ComboBox();
-            this.vastuuhkloCB = new System.Windows.Forms.ComboBox();
+            this.vastuuhloCB = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.OsoiteLB = new System.Windows.Forms.Label();
             this.PostinumeroLB = new System.Windows.Forms.Label();
@@ -74,14 +74,15 @@
             this.oppilaitosCB.SelectedIndexChanged += new System.EventHandler(this.oppilaitosCB_SelectedIndexChanged);
             this.oppilaitosCB.TextChanged += new System.EventHandler(this.oppilaitosCB_TextChanged);
             // 
-            // vastuuhkloCB
+            // vastuuhloCB
             // 
-            this.vastuuhkloCB.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.vastuuhkloCB.FormattingEnabled = true;
-            this.vastuuhkloCB.Location = new System.Drawing.Point(315, 109);
-            this.vastuuhkloCB.Name = "vastuuhkloCB";
-            this.vastuuhkloCB.Size = new System.Drawing.Size(243, 33);
-            this.vastuuhkloCB.TabIndex = 4;
+            this.vastuuhloCB.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.vastuuhloCB.FormattingEnabled = true;
+            this.vastuuhloCB.Location = new System.Drawing.Point(315, 109);
+            this.vastuuhloCB.Name = "vastuuhloCB";
+            this.vastuuhloCB.Size = new System.Drawing.Size(243, 33);
+            this.vastuuhloCB.TabIndex = 4;
+            this.vastuuhloCB.TextChanged += new System.EventHandler(this.vastuuhloCB_TextChanged);
             // 
             // label3
             // 
@@ -107,7 +108,7 @@
             // 
             this.PostinumeroLB.AutoSize = true;
             this.PostinumeroLB.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.PostinumeroLB.Location = new System.Drawing.Point(15, 182);
+            this.PostinumeroLB.Location = new System.Drawing.Point(16, 182);
             this.PostinumeroLB.Name = "PostinumeroLB";
             this.PostinumeroLB.Size = new System.Drawing.Size(129, 30);
             this.PostinumeroLB.TabIndex = 6;
@@ -186,7 +187,7 @@
             this.Controls.Add(this.PostitoimipaikkaLB);
             this.Controls.Add(this.PostinumeroLB);
             this.Controls.Add(this.OsoiteLB);
-            this.Controls.Add(this.vastuuhkloCB);
+            this.Controls.Add(this.vastuuhloCB);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.oppilaitosCB);
             this.Controls.Add(this.label2);
@@ -204,7 +205,7 @@
         private Label label1;
         private Label label2;
         private ComboBox oppilaitosCB;
-        private ComboBox vastuuhkloCB;
+        private ComboBox vastuuhloCB;
         private Label label3;
         private Label OsoiteLB;
         private Label PostinumeroLB;

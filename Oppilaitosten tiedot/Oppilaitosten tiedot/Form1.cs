@@ -21,8 +21,8 @@ namespace Oppilaitosten_tiedot
             PuhelinLB.Text = oppilaitos.Rows[oppilaitosCB.SelectedIndex]["OPuhelin"].ToString();
 
             yhteys = vastuuHenkilot.Select("OID =" + viite).CopyToDataTable();
-            vastuuhkloCB.DataSource = yhteys;
-            vastuuhkloCB.DisplayMember = "VNimi";
+            vastuuhloCB.DataSource = yhteys;
+            vastuuhloCB.DisplayMember = "VNimi";
         }
 
         private void AvainhekilotForm_Load(object sender, EventArgs e)
@@ -37,6 +37,7 @@ namespace Oppilaitosten_tiedot
         {
             oppilaitos.Columns.Add("OID", typeof(int));
             oppilaitos.Columns.Add("ONimi");
+            oppilaitos.Columns.Add("OKatuosoite");
             oppilaitos.Columns.Add("OPostinumero");
             oppilaitos.Columns.Add("OPostitoimipaikka");
             oppilaitos.Columns.Add("OPuhelin");
@@ -80,11 +81,15 @@ namespace Oppilaitosten_tiedot
 
         private void oppilaitosCB_TextChanged(object sender, EventArgs e)
         {
-            TitteliLB.Text = yhteys.Rows[vastuuhkloCB.SelectedIndex]["VTitteli"].ToString();
-            OsastoLB.Text = yhteys.Rows[vastuuhkloCB.SelectedIndex]["VOsasto"].ToString();
-            EmailLB.Text = yhteys.Rows[vastuuhkloCB.SelectedIndex]["VSahkoposti"].ToString();
-            PuhLB.Text = yhteys.Rows[vastuuhkloCB.SelectedIndex]["VPuhelin"].ToString();
+      
+        }
 
+        private void vastuuhloCB_TextChanged(object sender, EventArgs e)
+        {
+            TitteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VTitteli"].ToString();
+            OsastoLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VOsasto"].ToString();
+            EmailLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSahkoposti"].ToString();
+            PuhLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VPuhelin"].ToString();
         }
     }
 }
