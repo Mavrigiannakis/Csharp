@@ -1,0 +1,17 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\bin\Debug\net6.0-windows\Oppilaitosten tiedot.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\bin\Debug\net6.0-windows\Oppilaitosten tiedot.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\bin\Debug\net6.0-windows\Oppilaitosten tiedot.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\bin\Debug\net6.0-windows\Oppilaitosten tiedot.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\bin\Debug\net6.0-windows\Oppilaitosten tiedot.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\refint\Oppilaitosten tiedot.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten tiedot.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\ref\Oppilaitosten tiedot.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Oppilaitosten tiedot\Oppilaitosten tiedot\obj\Debug\net6.0-windows\Oppilaitosten_tiedot.AvainhenkilotForm.resources
