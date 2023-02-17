@@ -1,0 +1,18 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla_Menu.ruokalistaForm.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla_Menu.Properties.Resources.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.AssemblyInfoInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.AssemblyInfo.cs
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\bin\Debug\net6.0-windows\Kahvilla Menu.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\bin\Debug\net6.0-windows\Kahvilla Menu.deps.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\bin\Debug\net6.0-windows\Kahvilla Menu.runtimeconfig.json
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\bin\Debug\net6.0-windows\Kahvilla Menu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\bin\Debug\net6.0-windows\Kahvilla Menu.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\refint\Kahvilla Menu.dll
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\Kahvilla Menu.genruntimeconfig.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\Kahvilla Menu\Kahvilla Menu\obj\Debug\net6.0-windows\ref\Kahvilla Menu.dll
