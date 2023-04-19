@@ -1,0 +1,11 @@
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\bin\Debug\autopeli.exe.config
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\bin\Debug\autopeli.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\bin\Debug\autopeli.pdb
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.csproj.AssemblyReference.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.csproj.SuggestedBindingRedirects.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.Form1.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.Properties.Resources.resources
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.csproj.GenerateResource.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.csproj.CoreCompileInputs.cache
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.exe
+C:\Users\mulle\source\repos\Mavrigiannakis\C-\autopeli\autopeli\obj\Debug\autopeli.pdb
